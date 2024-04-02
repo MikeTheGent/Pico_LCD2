@@ -7,5 +7,6 @@ set the appropriate pins and dimensions for the Waveshare board.
 References:
 
 [Waveshare Pico LCD 2](https://www.waveshare.com/wiki/Pico-LCD-2)
+
 [Adafruit ST7735 and ST7789 Library](https://github.com/adafruit/Adafruit-ST7735-Library)
 
